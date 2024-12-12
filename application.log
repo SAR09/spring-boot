@@ -1,0 +1,2 @@
+2024-12-12T17:05:22.054+07:00  WARN 5936 --- [belajar-spring-logging] [main] c.p.java.logging.LoggingTest             : Belajar Spring
+2024-12-12T17:05:22.057+07:00 ERROR 5936 --- [belajar-spring-logging] [main] c.p.java.logging.LoggingTest             : Belajar Pemprograman
